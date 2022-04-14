@@ -107,3 +107,5 @@ Then, from within your project folder:
 npm run build
 surge public my-project.surge.sh
 ```
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/Svelte_stores
